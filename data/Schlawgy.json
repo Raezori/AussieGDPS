@@ -1,8 +1,8 @@
 {
     "id": 133,
     "name": "Schlawgy",
-    "author": "Catty",
-    "creators": [],
+    "author": "TheShadowRealm",
+    "creators": ["Catty"],
     "verifier": "Catty",
     "verification": "https://youtu.be/Ib7yxdDT5rk",
     "percentToQualify": 100,
