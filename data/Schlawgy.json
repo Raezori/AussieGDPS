@@ -6,5 +6,12 @@
     "verifier": "Catty",
     "verification": "https://youtu.be/Ib7yxdDT5rk",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "doom",
+            "link": "https://www.youtube.com/watch?v=2Gq2HKDm2VE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
