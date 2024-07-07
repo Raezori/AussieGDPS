@@ -1,0 +1,17 @@
+{
+	"id": 354,
+	"name": "mentally insane",
+	"author": "TheShadowRealm",
+	"creators": ["Catty"],
+	"verifier": "Catty",
+	"verification": "https://youtu.be/b-PnYatViFY",
+	"percentToQualify": 67,
+	"records": [
+		{
+			"user": "doom",
+			"link": "https://www.youtube.com/watch?v=s2vpOaI9YCE",
+			"percent": 100,
+			"hz": 240
+		}
+	]
+}

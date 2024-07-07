@@ -1,0 +1,17 @@
+{
+	"id": 802,
+	"name": "The Impossible Game",
+	"author": "Raezori",
+	"creators": [],
+	"verifier": "Raezori",
+	"verification": "https://youtu.be/fcSkE2oefeQ",
+	"percentToQualify": 50,
+	"records": [
+		{
+			"user": "doom",
+			"link": "https://www.youtube.com/watch?v=CtfMZLC0QU8",
+			"percent": 100,
+			"hz": 240
+		}
+	]
+}
