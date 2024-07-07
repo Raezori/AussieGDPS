@@ -1,29 +1,29 @@
 {
-    "id": 245,
-    "name": "How to Make a Demon",
-    "author": "Pea",
-    "creators": [],
-    "verifier": "Infg",
-    "verification": "https://drive.google.com/file/d/1esPjPYjTmr_URu4a_tM31dNrkFZlAXP4/view?t=2",
-    "percentToQualify": 57,
-    "records": [
-        {
-            "user": "doom",
-            "link": "https://www.youtube.com/watch?v=R4P4oi0Mh7g",
-            "percent": 100,
-            "hz": 240
-         },
-        {
-            "user": "Raezori",
-            "link": "https://youtu.be/sED_firr_CE",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Zestii",
-            "link": "https://www.youtube.com/watch?v=5QBlBjPwveI",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+	"id": 245,
+	"name": "How to Make a Demon",
+	"author": "Pea",
+	"creators": [],
+	"verifier": "Infg",
+	"verification": "https://drive.google.com/file/d/1esPjPYjTmr_URu4a_tM31dNrkFZlAXP4/view?t=2",
+	"percentToQualify": 57,
+	"records": [
+		{
+			"user": "doom",
+			"link": "https://www.youtube.com/watch?v=R4P4oi0Mh7g",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Raezori",
+			"link": "https://youtu.be/sED_firr_CE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Zestii",
+			"link": "https://www.youtube.com/watch?v=5QBlBjPwveI",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

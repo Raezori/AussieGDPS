@@ -1,0 +1,23 @@
+{
+	"id": 915,
+	"name": "Itami",
+	"author": "TheShadowRealm",
+	"creators": ["Catty"],
+	"verifier": "Catty",
+	"verification": "https://youtu.be/w3PiapR8S0I?si=6yMTvzHep_kavNDq",
+	"percentToQualify": 68,
+	"records": [
+		{
+			"user": "Raezori",
+			"link": "https://youtu.be/_x6Wzcbq_7M",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "doom",
+			"link": "https://youtu.be/206nVlFFRUk",
+			"percent": 100,
+			"hz": 240
+		}
+	]
+}
